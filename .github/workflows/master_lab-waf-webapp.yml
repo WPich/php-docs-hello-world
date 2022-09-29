@@ -56,5 +56,5 @@ jobs:
         with:
           app-name: 'LAB-WAF-WEBAPP'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_372E6D1AC8CF4C319A741AD9EE188784 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_92151D61689640739FE93DC8EC4856FB }}
           package: .
